@@ -21,7 +21,7 @@ int main()
 		}
 		p=A[p_pos];
 	}
-
+//first things first
 	for(int j=0;j<20;j++)
 	{
 		printf("%d \n",A[j]);
